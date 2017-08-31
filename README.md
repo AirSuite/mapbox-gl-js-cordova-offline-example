@@ -1,6 +1,6 @@
 # mapbox-gl-js-cordova-offline-example
 
-## mapbox-gl-js version 0.31.0
+## mapbox-gl-js version 0.39.1
 
 ## Prerequisites
 
